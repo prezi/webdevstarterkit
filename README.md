@@ -41,17 +41,17 @@ This is a collection of resources that has helped web developers at Prezi to bec
 ## Frontend technologies
 - understand how HTML and CSS
     - **read book [Dive into HTML5][html5_book]**
-    - **take [CSS Bootstrap tutorial][bootstrap]**
-    - **learn about [website cookies][cookies]**
-    - read [CSS guidelines][css_guidelines]
     - **read [CSS tutorial][css_tutorial]**
+    - **take [CSS Bootstrap tutorial][bootstrap]**
+    - read [CSS guidelines][css_guidelines]
     - learn about [LESS framework][less]
-- browser dev tools
-    -  read about [devtools][devtools]
+    - **learn about [website cookies][cookies]**
 - understand the basics of JavaScript
     - **read book [Eloquent JavaScript: A Modern Introduction to Programming][javascript_eloquent] (if you are new to programming)**
     - **read book [JavasCript: Good Parts][javascript_goodparts]:**
     - [learn JavaScript properly][javascript_properly] (time investment: 8 week)
+- browser dev tools
+    -  read about [devtools][devtools]
 - learn a JavaScript framework
     - read article [learn backbone.js completely][backbonejs]
 - be familiar with a virtualization tool for hosting services and for cross-browser development
