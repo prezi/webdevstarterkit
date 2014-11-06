@@ -7,6 +7,7 @@ This is a collection of resources that has helped web developers at Prezi to bec
 
 - learn data structures
     - **book: [Data Structures and Algorithms][data_struct]**
+    - article: [Data Structures Succinctly: Part 1][datastructspart1]
 - be familiar with basic Unix tools
     - **book: [The Unix Programming Environment][unix_book]**
     - tutorial: [Unix tutorial][unix_tutorial]
@@ -109,3 +110,4 @@ This is a collection of resources that has helped web developers at Prezi to bec
 [webappsecurity]: https://google-gruyere.appspot.com/
 [pep20]: http://legacy.python.org/dev/peps/pep-0020/
 [top5cucumber]: http://blog.codeship.io/2013/05/21/Testing-Tuesday-6-Top-5-Cucumber-best-practices.html
+[datastructspart1]: http://code.tutsplus.com/series/data-structures-succinctly-part-1--cms-551?view=grid
