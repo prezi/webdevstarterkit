@@ -30,7 +30,7 @@ This is a collection of resources that has helped web developers at Prezi to bec
 - have Chef installed, tried basic tasks
     - tutorial: [Chef course][chef_tutorial]
 - learn to use the Python debugger
-    - ** article: [PDB][python_debugger]**
+    - **article: [PDB][python_debugger]**
 - learn databases
     - **tutorial: [SQL tutorial][sql_tutorial]**
 - be able to setup a website or service on heroku or amazon (PAAS)
