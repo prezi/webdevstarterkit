@@ -7,10 +7,10 @@ This is a collection of resources that has helped web developers at Prezi to bec
 
 - learn data structures
     - **book: [Data Structures and Algorithms][data_struct]**
-    - article: [Data Structures Succinctly: Part 1][datastructspart1]
+    - **article: [Data Structures Succinctly: Part 1][datastructspart1]**
 - be familiar with basic Unix tools
     - **book: [The Unix Programming Environment][unix_book]**
-    - **tutorial: [Unix tutorial][unix_tutorial]
+    - **tutorial: [Unix tutorial][unix_tutorial]**
 - learn version controlling
     - **tutorial: [Git tutorial][git_school] (time investment: 15 min)**
 - learn regular expressions
@@ -25,11 +25,11 @@ This is a collection of resources that has helped web developers at Prezi to bec
     - **article: [PEP 20 aka The Zen of Python][pep20] (time investment: 2 min)**
 - be able to bootstrap a Django app from scratch
     - **tutorial: [official Django tutorial][django_tutorial]**
-    - **book: [Two Scoops of Django: Best Practices For Django 1.6][scoops_of_django]
+    - **book: [Two Scoops of Django: Best Practices For Django 1.6][scoops_of_django]**
 - i18n
-    - **article: [Internationalization and localization][i18n]
+    - **article: [Internationalization and localization][i18n]**
 - have Chef installed & try basic tasks
-    - **tutorial: [Chef course][chef_tutorial]
+    - **tutorial: [Chef course][chef_tutorial]**
 - learn to use the Python debugger
     - **article: [PDB][python_debugger]**
 - learn databases
@@ -37,41 +37,41 @@ This is a collection of resources that has helped web developers at Prezi to bec
 - be able to setup a website or service on heroku or amazon (PAAS)
     - **tutorial: [Getting Started with Django on Heroku][paas_tutorial]**
 - have a good python IDE installed
-    - **recommendation: prezi engineers recommend using [PyCharm][pycharm]
+    - **recommendation: prezi engineers recommend using [PyCharm][pycharm]**
 
 ## Frontend technologies
 - understand how HTML and CSS work
     - **book: [Dive into HTML5][html5_book]**
     - **tutorial: [CSS tutorial][css_tutorial]**
     - **tutorial: [CSS Bootstrap tutorial][bootstrap]**
-    - **article: [CSS guidelines][css_guidelines]
-    - **tutorial: [LESS framework][less]
+    - **article: [CSS guidelines][css_guidelines]**
+    - **tutorial: [LESS framework][less]**
     - **article: [website cookies][cookies]**
 - understand the basics of JavaScript
     - **book: [Eloquent JavaScript: A Modern Introduction to Programming][javascript_eloquent] (if you are new to programming)**
     - **book: [JavasCript: Good Parts][javascript_goodparts]:**
-    - **tutorial: [learn JavaScript properly][javascript_properly] (time investment: 8 week)
+    - **tutorial: [learn JavaScript properly][javascript_properly] (time investment: 8 week)**
 - browser dev tools
-    - **article: [devtools][devtools]
+    - **article: [devtools][devtools]**
 - learn a JavaScript framework
-    - **article: [learn backbone.js completely][backbonejs]
+    - **article: [learn backbone.js completely][backbonejs]**
 - be familiar with a virtualization tool for hosting services and for cross-browser development
-    - **recommendation: prezi engineers recommend [ievms][]
+    - **recommendation: prezi engineers recommend [ievms][]**
 
 ## Advanced topics
 - write clean code -- great engineers write clean code to help us create maintainable systems
     - **book: [Clean code][clean_code]**
-    - **book: [Clean Coder][clean_coder]
+    - **book: [Clean Coder][clean_coder]**
 - be familiar with basic development processes
     - **book: [Continuous Delivery][continuous_delivery]**
 - learn about the importance of automated unit tests and how TDD can help you write better code
     - **book: [TDD by example][tddbook]**
-    - **video: [lecture #1 of Udacity Software Testing][tdd_udacity] about unit testing with coding exercises
+    - **video: [lecture #1 of Udacity Software Testing][tdd_udacity] about unit testing with coding exercises**
 - have an understanding of acceptance testing
-    - **book: [The Cucumber Book][cucumber_book]
-    - **video: [Top 5 Cucumber best practices][top5cucumber]
+    - **book: [The Cucumber Book][cucumber_book]**
+    - **video: [Top 5 Cucumber best practices][top5cucumber]**
 - learn about web application security principles
-    - **article: [ Web Application Exploits and Defenses][webappsecurity]
+    - **article: [ Web Application Exploits and Defenses][webappsecurity]**
 
 [data_struct]: http://www.amazon.com/Data-Structures-Algorithms-Alfred-Aho/dp/0201000237
 [unix_book]: http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/ref=sr_1_16?...
