@@ -50,7 +50,7 @@
 - learn a JavaScript framework
   - read article [learn backbone.js completely][backbonejs]
 - be familiar with a virtualization tool for hosting services and for cross-browser development
-  - prezi engineers’ recommend [ievms][]
+  - prezi engineers recommend [ievms][]
 
 # Advanced topics
 - write clean code -- great engineers write clean code to help us create maintainable systems
