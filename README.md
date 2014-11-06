@@ -6,71 +6,71 @@ This is a collection of resources that has helped web developers at Prezi to bec
 ## Introductory topics
 
 - learn data structures
-    - **read book [Data Structures and Algorithms][data_struct]**
+    - **book: [Data Structures and Algorithms][data_struct]**
 - be familiar with basic Unix tools
-    - **read book [The Unix Programming Environment][unix_book]**
-    - take [Unix tutorial][unix_tutorial]
+    - **book: [The Unix Programming Environment][unix_book]**
+    - tutorial: [Unix tutorial][unix_tutorial]
 - learn version controlling
-    - **take [Git tutorial][git_school] (time investment: 15 min)**
+    - **tutorial: [Git tutorial][git_school] (time investment: 15 min)**
 - learn regular expressions
-    - **take [RegExp tutorial][regex_tutorial]**
+    - **tutorial: [RegExp tutorial][regex_tutorial]**
 - understand HTTP and browser
-    - **read article [How Browsers Work: Behind the scenes of modern web browsers][browserswork]**
-    - **read article [HTTP: The Protocol Every Web Developer Must Know][http_tutorial]**
+    - **article: [How Browsers Work: Behind the scenes of modern web browsers][browserswork]**
+    - **article: [HTTP: The Protocol Every Web Developer Must Know][http_tutorial]**
 
 ## Backend technologies
 - be familiar with Python coding style
-    - **read [PEP 8][pep8] (time investment: 2 hours)**
-    - **read [PEP 20 aka The Zen of Python][pep20] (time investment: 2 min)**
+    - **article: [PEP 8][pep8] (time investment: 2 hours)**
+    - **article: [PEP 20 aka The Zen of Python][pep20] (time investment: 2 min)**
 - be able to bootstrap a Django app from scratch
-    - **take [official Django tutorial][django_tutorial]**
-    - read book [Two Scoops of Django: Best Practices For Django 1.6][scoops_of_django]
+    - **tutorial: [official Django tutorial][django_tutorial]**
+    - book: [Two Scoops of Django: Best Practices For Django 1.6][scoops_of_django]
 - i18n
-    - read article about [Internationalization and localization][i18n]
+    - article: [Internationalization and localization][i18n]
 - have Chef installed, tried basic tasks
-    - take [Chef course][chef_tutorial]
+    - tutorial: [Chef course][chef_tutorial]
 - learn to use the Python debugger
-    - **read article about [PDB][python_debugger]**
+    - ** article: [PDB][python_debugger]**
 - learn databases
-    - **take [SQL tutorial][sql_tutorial]**
+    - **tutorial: [SQL tutorial][sql_tutorial]**
 - be able to setup a website or service on heroku or amazon (PAAS)
-    - **take tutorial [Getting Started with Django on Heroku][paas_tutorial]**
+    - **tutorial: [Getting Started with Django on Heroku][paas_tutorial]**
 - have a good python IDE installed
     - prezi engineers recommend using [PyCharm][pycharm]
 
 ## Frontend technologies
 - understand how HTML and CSS
-    - **read book [Dive into HTML5][html5_book]**
-    - **read [CSS tutorial][css_tutorial]**
-    - **take [CSS Bootstrap tutorial][bootstrap]**
-    - read [CSS guidelines][css_guidelines]
-    - learn about [LESS framework][less]
-    - **learn about [website cookies][cookies]**
+    - **book: [Dive into HTML5][html5_book]**
+    - **tutorial: [CSS tutorial][css_tutorial]**
+    - **tutorial: [CSS Bootstrap tutorial][bootstrap]**
+    - article: [CSS guidelines][css_guidelines]
+    - tutorial: [LESS framework][less]
+    - **article: [website cookies][cookies]**
 - understand the basics of JavaScript
-    - **read book [Eloquent JavaScript: A Modern Introduction to Programming][javascript_eloquent] (if you are new to programming)**
-    - **read book [JavasCript: Good Parts][javascript_goodparts]:**
+    - **book: [Eloquent JavaScript: A Modern Introduction to Programming][javascript_eloquent] (if you are new to programming)**
+    - **book: [JavasCript: Good Parts][javascript_goodparts]:**
     - [learn JavaScript properly][javascript_properly] (time investment: 8 week)
 - browser dev tools
-    -  read about [devtools][devtools]
+    -  article: [devtools][devtools]
 - learn a JavaScript framework
-    - read article [learn backbone.js completely][backbonejs]
+    - article: [learn backbone.js completely][backbonejs]
 - be familiar with a virtualization tool for hosting services and for cross-browser development
     - prezi engineers recommend [ievms][]
 
 ## Advanced topics
 - write clean code -- great engineers write clean code to help us create maintainable systems
-    - **read book [Clean code][clean_code]**
-    - read book [Clean Coder][clean_coder]
+    - **book: [Clean code][clean_code]**
+    - book: [Clean Coder][clean_coder]
 - be familiar with basic development processes
-    - **read book [Continuous Delivery][continuous_delivery]**
+    - **book: [Continuous Delivery][continuous_delivery]**
 - learn about the importance automated unit tests and how TDD can help you write better code
-    - **read book [TDD by example][tddbook]**
-    - take course [lecture #1 of Udacity Software Testing][tdd_udacity] about unit testing with coding exercises
+    - **book: [TDD by example][tddbook]**
+    - video: [lecture #1 of Udacity Software Testing][tdd_udacity] about unit testing with coding exercises
 - have an understanding of acceptance testing
-    - read book [The Cucumber Book][cucumber_book]
-    - watch video about [Top 5 Cucumber best practices][top5cucumber]
+    - book: [The Cucumber Book][cucumber_book]
+    - video: [Top 5 Cucumber best practices][top5cucumber]
 - learn about web application security principles
-    - read article [ Web Application Exploits and Defenses][webappsecurity]
+    - article: [ Web Application Exploits and Defenses][webappsecurity]
 
 [data_struct]: http://www.amazon.com/Data-Structures-Algorithms-Alfred-Aho/dp/0201000237
 [unix_book]: http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/ref=sr_1_16?...
