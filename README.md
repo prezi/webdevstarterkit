@@ -1,4 +1,4 @@
-Web development starter kit
+Web Development Starter Kit
 ===========================
 
 This is a collection of resources that has helped web developers at
