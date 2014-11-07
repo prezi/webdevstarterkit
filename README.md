@@ -42,21 +42,34 @@ and hence own the full stack what they develop.
 
 ## Backend technologies
 
-- We believe in clean code. Python's coding style (PEP 8) is a great tool to ensure a common style across teams.
+- We believe in clean code. Python's coding style (PEP 8) is a great
+  tool to ensure a common style across teams.
     - **article: [PEP 8][pep8] (time investment: 2 hours)**
     - **article: [PEP 20 aka The Zen of Python][pep20] (time investment: 2 min)**
-- Write a Django app from scratch. Django is a great web framework written in Python what we use for most of our web services. Learning the fundemantals of a web framework gives you the ability to write maintanable and scalable web sites and services in a fun and fast way.
+- Write a Django app from scratch. Django is a great web framework
+  written in Python what we use for most of our web services. Learning
+  the fundemantals of a web framework gives you the ability to write
+  maintanable and scalable web sites and services in a fun and fast
+  way.
     - **tutorial: [official Django tutorial][django_tutorial]**
     - **book: [Two Scoops of Django: Best Practices For Django 1.6][scoops_of_django]**
-- We &#65533; Unicode. Learn how to enable internationalization and localization in a web application to give you the best experience for your users.
+- We &#65533; Unicode. Learn how to enable internationalization and
+  localization in a web application to give you the best experience
+  for your users.
     - **article: [Internationalization and localization][i18n]**
-- Learn Chef. We believe in full stack ownership. For that, being able to maintain your own infrastructure is essential. Chef is a great configuration management tool that lets you manage infrastructure as code.
+- Learn Chef. We believe in full stack ownership. For that, being able
+  to maintain your own infrastructure is essential. Chef is a great
+  configuration management tool that lets you manage infrastructure as
+  code.
     - **tutorial: [Chef course][chef_tutorial]**
-- Learn to use Python debugger. Even best engineers make mistake. The era of `print` statements is over.
+- Learn to use Python debugger. Even best engineers make mistake. The
+  era of `print` statements is over.
     - **article: [PDB][python_debugger]**
 - Learn about databases.
     - **course: [Introduction to Databases][dbintro]**
-- Launch your app on the cloud. Platform as a service is here. Now that you wrote your app in Django and manage the infrastructure with Chef, it shouldn't be hard, right?
+- Launch your app on the cloud. Platform as a service is here. Now
+  that you wrote your app in Django and manage the infrastructure with
+  Chef, it shouldn't be hard, right?
     - **tutorial: [Getting Started with Django on Heroku][paas_tutorial]**
 - Have a good Python IDE installed. Find your best friend.
     - **Prezi engineers recommend using [PyCharm][pycharm]**
