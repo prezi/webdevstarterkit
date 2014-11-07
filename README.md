@@ -1,25 +1,47 @@
 Web development starter kit
 ===========================
 
-This is a collection of resources that has helped web developers at Prezi to become great and happy developers. It's a curated list of books, articles and tutorials. It's based on the current technology stack that we use at Prezi but it's useful for every full stack developer.
+This is a collection of resources that has helped web developers at
+Prezi to become great and happy developers. It's a curated list of
+books, articles and tutorials. It's based on the current technology
+stack that we use at Prezi but it's useful for every full stack
+developer.
 
 ## Introductory topics
 
-- learn data structures
+- Learn data structures and algorithms. Data structures and algorithms
+for programmers are like notes and scales for a musician. All
+programming is built around data structures and algorithms. Whether
+making the right choices when solving problems, will be determined by
+your confidence in the basics.
     - **book: [Data Structures and Algorithms][data_struct]**
     - **article: [Data Structures Succinctly: Part 1][datastructspart1]**
-- be familiar with basic Unix tools
+- Learn Unix tools. Unix's philosophy of building simple, small,
+modular tools is an appreciated pattern for a reason. Problems that
+seem complex usually can be solved with one liners in no time. Also
+since most of today's infrastructures are built upon Un*x systems, a
+great engineer might want to take advantage of being able to control
+and hence own the full stack what they develop.
     - **book: [The Unix Programming Environment][unix_book]**
     - **tutorial: [Unix tutorial][unix_tutorial]**
-- learn version controlling
+- Learn version controlling. Version controlling is the alpha of
+  today's development work flow. It's the breath of all open source
+  projects, it helps teams day to day collaborate over their work and
+  even for a single engineer working alone helps create the right
+  mindset of working in baby steps and gives the confident of being
+  able to go back to any previous state of the code base.
     - **tutorial: [Git tutorial][git_school] (time investment: 15 min)**
-- learn regular expressions
+- Learn regular expressions. It's hard to bypass regular
+  expressions. They are an impressive tool available in most of the
+  languages to work with text.
     - **tutorial: [RegExp tutorial][regex_tutorial]**
-- understand HTTP and browsers
+- Understand how HTTP and browsers work. These technologies are on the
+  lowest level of the Maslow pyramid of web development.
     - **article: [How Browsers Work: Behind the scenes of modern web browsers][browserswork]**
     - **article: [HTTP: The Protocol Every Web Developer Must Know][http_tutorial]**
 
 ## Backend technologies
+
 - be familiar with the Python coding style
     - **article: [PEP 8][pep8] (time investment: 2 hours)**
     - **article: [PEP 20 aka The Zen of Python][pep20] (time investment: 2 min)**
