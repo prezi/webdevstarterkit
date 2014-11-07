@@ -15,7 +15,7 @@ programming is built around data structures and algorithms. Whether
 making the right choices when solving problems, will be determined by
 your confidence in the basics.
     - **book: [Data Structures and Algorithms][data_struct]**
-    - **article: [Data Structures Succinctly: Part 1][datastructspart1]**
+    - article: [Data Structures Succinctly: Part 1][datastructspart1]
 - Learn Unix tools. Unix's philosophy of building simple, small,
 modular tools is highly regarded for a reason. Problems that
 seem complex usually can be solved with one liners in no time. Also
@@ -23,7 +23,7 @@ since most of today's infrastructures are built upon Un*x systems, a
 great engineer might want to take advantage of being able to control
 and hence own the full stack what they develop.
     - **book: [The Unix Programming Environment][unix_book]**
-    - **tutorial: [Unix tutorial][unix_tutorial]**
+    - tutorial: [Unix tutorial][unix_tutorial]
 - Learn version controlling. Version controlling is the alpha of
   today's development work flow. It's the breath of all open source
   projects, it helps teams collaborate day to day on their work and
@@ -53,7 +53,7 @@ and hence own the full stack what they develop.
   maintainable and scalable web sites and services in a fun and fast
   way.
     - **tutorial: [official Django tutorial][django_tutorial]**
-    - **book: [Two Scoops of Django: Best Practices For Django 1.6][scoops_of_django]**
+    - book: [Two Scoops of Django: Best Practices For Django 1.6][scoops_of_django]
 - We &#65533; Unicode. Learn how to enable internationalization and
   localization in a web application to give you the best experience
   for your users.
@@ -62,7 +62,7 @@ and hence own the full stack what they develop.
   to maintain your own infrastructure is essential. Chef is a great
   configuration management tool that lets you manage infrastructure as
   code.
-    - **tutorial: [Chef course][chef_tutorial]**
+    - tutorial: [Chef course][chef_tutorial]
 - Learn to use the Python debugger. Even the best engineers make mistake. The
   era of `print` statements is over.
     - **article: [PDB][python_debugger]**
@@ -73,7 +73,7 @@ and hence own the full stack what they develop.
   Chef, it shouldn't be hard, right?
     - **tutorial: [Getting Started with Django on Heroku][paas_tutorial]**
 - Have a good Python IDE installed. Find your best friend.
-    - **Prezi engineers recommend using [PyCharm][pycharm]**
+    - Prezi engineers recommend using [PyCharm][pycharm]
 
 ## Frontend technologies
 
@@ -83,36 +83,36 @@ and hence own the full stack what they develop.
     - **book: [Dive into HTML5][html5_book]**
     - **tutorial: [CSS tutorial][css_tutorial]**
     - **tutorial: [CSS Bootstrap tutorial][bootstrap]**
-    - **article: [CSS guidelines][css_guidelines]**
-    - **tutorial: [LESS framework][less]**
+    - article: [CSS guidelines][css_guidelines]
+    - tutorial: [LESS framework][less]
 - Learn JavaScript. JavaScript is the assembly language of the web.
     - **book: [Eloquent JavaScript: A Modern Introduction to Programming][javascript_eloquent] (if you are new to programming)**
     - **book: [JavasCript: Good Parts][javascript_goodparts]:**
-    - **tutorial: [learn JavaScript properly][javascript_properly] (time investment: 8 week)**
+    - tutorial: [learn JavaScript properly][javascript_properly] (time investment: 8 week)
 - Learn a JavaScript framework. Understanding the language is highly
   recommended and mastering a framework gives you the ability to be
   even more powerful.
-    - **article: [learn backbone.js completely][backbonejs]**
+    - article: [learn backbone.js completely][backbonejs]
 - Set up your development environment. Make debug tools your friend
   and create an environment that lets you test across various browsers.
-    - **article: [devtools][devtools]**
-    - **article: [Microsoft IE App Compat virtual machines][ievms]**
+    - article: [devtools][devtools]
+    - article: [Microsoft IE App Compat virtual machines][ievms]
 
 ## Advanced topics
 - Write clean code. Great engineers write clean code to create
   maintainable systems.
     - **book: [Clean code][clean_code]**
-    - **book: [Clean Coder][clean_coder]**
+    - book: [Clean Coder][clean_coder]
 - Learn about modern software development process. Make continuous
   delivery, test driven development, and acceptance testing part of
   your everyday development tools.
     - **book: [Continuous Delivery][continuous_delivery]**
     - **book: [TDD by example][tddbook]**
-    - **video: [lecture #1 of Udacity Software Testing][tdd_udacity] about unit testing with coding exercises**
+    - video: [lecture #1 of Udacity Software Testing][tdd_udacity] about unit testing with coding exercises
     - **book: [The Cucumber Book][cucumber_book]**
-    - **video: [Top 5 Cucumber best practices][top5cucumber]**
+    - video: [Top 5 Cucumber best practices][top5cucumber]
 - Learn about web application security principles.
-    - **article: [ Web Application Exploits and Defenses][webappsecurity]**
+    - article: [ Web Application Exploits and Defenses][webappsecurity]
 
 
 [data_struct]: http://www.amazon.com/Data-Structures-Algorithms-Alfred-Aho/dp/0201000237
