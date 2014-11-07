@@ -75,23 +75,28 @@ and hence own the full stack what they develop.
     - **Prezi engineers recommend using [PyCharm][pycharm]**
 
 ## Frontend technologies
-- understand how HTML and CSS work
+
+- Learn HTML and CSS. Writing semantic, clean markup is the backbone
+  of your website or application. Mastering stylesheets will help
+  express your content in a beautiful way.
     - **book: [Dive into HTML5][html5_book]**
     - **tutorial: [CSS tutorial][css_tutorial]**
     - **tutorial: [CSS Bootstrap tutorial][bootstrap]**
     - **article: [CSS guidelines][css_guidelines]**
     - **tutorial: [LESS framework][less]**
     - **article: [website cookies][cookies]**
-- understand the basics of JavaScript
+- Learn JavaScript. JavaScript is the assembly language of the web.
     - **book: [Eloquent JavaScript: A Modern Introduction to Programming][javascript_eloquent] (if you are new to programming)**
     - **book: [JavasCript: Good Parts][javascript_goodparts]:**
     - **tutorial: [learn JavaScript properly][javascript_properly] (time investment: 8 week)**
-- browser dev tools
-    - **article: [devtools][devtools]**
-- learn a JavaScript framework
+- Learn a JavaScript framework. Understanding the language is highly
+  recommended and mastering a framework gives you the ability to be
+  even more powerful.
     - **article: [learn backbone.js completely][backbonejs]**
-- be familiar with a virtualization tool for hosting services and for cross-browser development
-    - **recommendation: prezi engineers recommend [ievms][]**
+- Set up your development environment. Make debug tools your friend
+  and create an environment that lets you test for cross browser.
+    - **article: [devtools][devtools]**
+    - **article: [ievms][]**
 
 ## Advanced topics
 - write clean code -- great engineers write clean code to help us create maintainable systems
