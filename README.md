@@ -54,8 +54,8 @@ and hence own the full stack what they develop.
     - **tutorial: [Chef course][chef_tutorial]**
 - Learn to use Python debugger. Even best engineers make mistake. The era of `print` statements is over.
     - **article: [PDB][python_debugger]**
-- learn databases
-    - **tutorial: [SQL tutorial][sql_tutorial]**
+- Learn about databases.
+    - **course: [Introduction to Databases][dbintro]**
 - Launch your app on the cloud. Platform as a service is here. Now that you wrote your app in Django and manage the infrastructure with Chef, it shouldn't be hard, right?
     - **tutorial: [Getting Started with Django on Heroku][paas_tutorial]**
 - Have a good Python IDE installed. Find your best friend.
@@ -108,7 +108,7 @@ and hence own the full stack what they develop.
 [i18n]: https://docs.djangoproject.com/en/dev/topics/i18n
 [chef_tutorial]: https://learn.getchef.com/
 [python_debugger]: https://docs.python.org/2/library/pdb.html
-[sql_tutorial]: http://www.sqlcourse.com/
+[dbintro]: https://www.coursera.org/course/db
 [paas_tutorial]: https://devcenter.heroku.com/articles/getting-started-with-django
 [pycharm]: https://www.jetbrains.com/pycharm/
 [html5_book]: http://diveintohtml5.info/
