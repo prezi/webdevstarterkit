@@ -17,7 +17,7 @@ your confidence in the basics.
     - **book: [Data Structures and Algorithms][data_struct]**
     - **article: [Data Structures Succinctly: Part 1][datastructspart1]**
 - Learn Unix tools. Unix's philosophy of building simple, small,
-modular tools is an appreciated pattern for a reason. Problems that
+modular tools is highly regarded for a reason. Problems that
 seem complex usually can be solved with one liners in no time. Also
 since most of today's infrastructures are built upon Un*x systems, a
 great engineer might want to take advantage of being able to control
@@ -26,13 +26,13 @@ and hence own the full stack what they develop.
     - **tutorial: [Unix tutorial][unix_tutorial]**
 - Learn version controlling. Version controlling is the alpha of
   today's development work flow. It's the breath of all open source
-  projects, it helps teams day to day collaborate over their work and
+  projects, it helps teams collaborate day to day on their work and
   even for a single engineer working alone helps create the right
-  mindset of working in baby steps and gives the confident of being
-  able to go back to any previous state of the code base.
+  mindset of working in baby steps and gives reassurance with the knowledge
+  that you are able to go back to any previous state of the code base.
     - **tutorial: [Git tutorial][git_school] (time investment: 15 min)**
 - Learn regular expressions. It's hard to bypass regular
-  expressions. They are an impressive tool available in most of the
+  expressions. They are an impressive tool available in most
   languages to work with text.
     - **tutorial: [RegExp tutorial][regex_tutorial]**
 - Understand how HTTP and browsers work. These technologies are on the
@@ -44,13 +44,13 @@ and hence own the full stack what they develop.
 ## Backend technologies
 
 - We love beautiful code. Python's coding style (PEP 8) is a great
-  tool to ensure a common style across teams.
+  tool to ensure a common coding style across teams.
     - **article: [PEP 8][pep8] (time investment: 2 hours)**
     - **article: [PEP 20 aka The Zen of Python][pep20] (time investment: 2 min)**
 - Write a Django app from scratch. Django is a great web framework
-  written in Python what we use for most of our web services. Learning
-  the fundemantals of a web framework gives you the ability to write
-  maintanable and scalable web sites and services in a fun and fast
+  written in Python that we use for most of our web services. Learning
+  the fundamantals of a web framework gives you the ability to write
+  maintainable and scalable web sites and services in a fun and fast
   way.
     - **tutorial: [official Django tutorial][django_tutorial]**
     - **book: [Two Scoops of Django: Best Practices For Django 1.6][scoops_of_django]**
@@ -63,7 +63,7 @@ and hence own the full stack what they develop.
   configuration management tool that lets you manage infrastructure as
   code.
     - **tutorial: [Chef course][chef_tutorial]**
-- Learn to use Python debugger. Even best engineers make mistake. The
+- Learn to use the Python debugger. Even the best engineers make mistake. The
   era of `print` statements is over.
     - **article: [PDB][python_debugger]**
 - Learn about databases.
@@ -94,7 +94,7 @@ and hence own the full stack what they develop.
   even more powerful.
     - **article: [learn backbone.js completely][backbonejs]**
 - Set up your development environment. Make debug tools your friend
-  and create an environment that lets you test for cross browser.
+  and create an environment that lets you test across various browsers.
     - **article: [devtools][devtools]**
     - **article: [ievms][]**
 
@@ -104,8 +104,8 @@ and hence own the full stack what they develop.
     - **book: [Clean code][clean_code]**
     - **book: [Clean Coder][clean_coder]**
 - Learn about modern software development process. Make continuous
-  delivery, test driven development, and acceptance testing your
-  everyday development tools.
+  delivery, test driven development, and acceptance testing part of
+  your everyday development tools.
     - **book: [Continuous Delivery][continuous_delivery]**
     - **book: [TDD by example][tddbook]**
     - **video: [lecture #1 of Udacity Software Testing][tdd_udacity] about unit testing with coding exercises**
