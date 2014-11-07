@@ -39,6 +39,7 @@ and hence own the full stack what they develop.
   lowest level of the Maslow pyramid of web development.
     - **article: [How Browsers Work: Behind the scenes of modern web browsers][browserswork]**
     - **article: [HTTP: The Protocol Every Web Developer Must Know][http_tutorial]**
+    - **article: [website cookies][cookies]**
 
 ## Backend technologies
 
@@ -84,7 +85,6 @@ and hence own the full stack what they develop.
     - **tutorial: [CSS Bootstrap tutorial][bootstrap]**
     - **article: [CSS guidelines][css_guidelines]**
     - **tutorial: [LESS framework][less]**
-    - **article: [website cookies][cookies]**
 - Learn JavaScript. JavaScript is the assembly language of the web.
     - **book: [Eloquent JavaScript: A Modern Introduction to Programming][javascript_eloquent] (if you are new to programming)**
     - **book: [JavasCript: Good Parts][javascript_goodparts]:**
