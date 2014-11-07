@@ -43,7 +43,7 @@ and hence own the full stack what they develop.
 
 ## Backend technologies
 
-- We believe in clean code. Python's coding style (PEP 8) is a great
+- We love beautiful code. Python's coding style (PEP 8) is a great
   tool to ensure a common style across teams.
     - **article: [PEP 8][pep8] (time investment: 2 hours)**
     - **article: [PEP 20 aka The Zen of Python][pep20] (time investment: 2 min)**
@@ -99,19 +99,21 @@ and hence own the full stack what they develop.
     - **article: [ievms][]**
 
 ## Advanced topics
-- write clean code -- great engineers write clean code to help us create maintainable systems
+- Write clean code. Great engineers write clean code to create
+  maintainable systems.
     - **book: [Clean code][clean_code]**
     - **book: [Clean Coder][clean_coder]**
-- be familiar with basic development processes
+- Learn about modern software development process. Make continuous
+  delivery, test driven development, and acceptance testing your
+  everyday development tools.
     - **book: [Continuous Delivery][continuous_delivery]**
-- learn about the importance of automated unit tests and how TDD can help you write better code
     - **book: [TDD by example][tddbook]**
     - **video: [lecture #1 of Udacity Software Testing][tdd_udacity] about unit testing with coding exercises**
-- have an understanding of acceptance testing
     - **book: [The Cucumber Book][cucumber_book]**
     - **video: [Top 5 Cucumber best practices][top5cucumber]**
-- learn about web application security principles
+- Learn about web application security principles.
     - **article: [ Web Application Exploits and Defenses][webappsecurity]**
+
 
 [data_struct]: http://www.amazon.com/Data-Structures-Algorithms-Alfred-Aho/dp/0201000237
 [unix_book]: http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/ref=sr_1_16?...
