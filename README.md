@@ -42,24 +42,24 @@ and hence own the full stack what they develop.
 
 ## Backend technologies
 
-- be familiar with the Python coding style
+- We believe in clean code. Python's coding style (PEP 8) is a great tool to ensure a common style across teams.
     - **article: [PEP 8][pep8] (time investment: 2 hours)**
     - **article: [PEP 20 aka The Zen of Python][pep20] (time investment: 2 min)**
-- be able to bootstrap a Django app from scratch
+- Write a Django app from scratch. Django is a great web framework written in Python what we use for most of our web services. Learning the fundemantals of a web framework gives you the ability to write maintanable and scalable web sites and services in a fun and fast way.
     - **tutorial: [official Django tutorial][django_tutorial]**
     - **book: [Two Scoops of Django: Best Practices For Django 1.6][scoops_of_django]**
-- i18n
+- We &#65533; Unicode. Learn how to enable internationalization and localization in a web application to give you the best experience for your users.
     - **article: [Internationalization and localization][i18n]**
-- have Chef installed & try basic tasks
+- Learn Chef. We believe in full stack ownership. For that, being able to maintain your own infrastructure is essential. Chef is a great configuration management tool that lets you manage infrastructure as code.
     - **tutorial: [Chef course][chef_tutorial]**
-- learn to use the Python debugger
+- Learn to use Python debugger. Even best engineers make mistake. The era of `print` statements is over.
     - **article: [PDB][python_debugger]**
 - learn databases
     - **tutorial: [SQL tutorial][sql_tutorial]**
-- be able to setup a website or service on heroku or amazon (PAAS)
+- Launch your app on the cloud. Platform as a service is here. Now that you wrote your app in Django and manage the infrastructure with Chef, it shouldn't be hard, right?
     - **tutorial: [Getting Started with Django on Heroku][paas_tutorial]**
-- have a good python IDE installed
-    - **recommendation: prezi engineers recommend using [PyCharm][pycharm]**
+- Have a good Python IDE installed. Find your best friend.
+    - **Prezi engineers recommend using [PyCharm][pycharm]**
 
 ## Frontend technologies
 - understand how HTML and CSS work
