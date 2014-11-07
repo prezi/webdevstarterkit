@@ -67,7 +67,7 @@ and hence own the full stack what they develop.
   era of `print` statements is over.
     - **article: [PDB][python_debugger]**
 - Learn about databases.
-    - **course: [Introduction to Databases][dbintro]**
+    - **tutorial: [Introduction to Databases][dbintro]**
 - Launch your app on the cloud. Platform as a service is here. Now
   that you wrote your app in Django and manage the infrastructure with
   Chef, it shouldn't be hard, right?
@@ -96,7 +96,7 @@ and hence own the full stack what they develop.
 - Set up your development environment. Make debug tools your friend
   and create an environment that lets you test across various browsers.
     - **article: [devtools][devtools]**
-    - **article: [ievms][]**
+    - **article: [Microsoft IE App Compat virtual machines][]**
 
 ## Advanced topics
 - Write clean code. Great engineers write clean code to create
