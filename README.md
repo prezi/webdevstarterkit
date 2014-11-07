@@ -96,7 +96,7 @@ and hence own the full stack what they develop.
 - Set up your development environment. Make debug tools your friend
   and create an environment that lets you test across various browsers.
     - **article: [devtools][devtools]**
-    - **article: [Microsoft IE App Compat virtual machines][]**
+    - **article: [Microsoft IE App Compat virtual machines][ievms]**
 
 ## Advanced topics
 - Write clean code. Great engineers write clean code to create
