@@ -14,7 +14,7 @@ for programmers are like notes and scales for a musician. All
 programming is built around data structures and algorithms. Whether
 making the right choices when solving problems, will be determined by
 your confidence in the basics.
-    - **book: [Data Structures and Algorithms][data_struct]**
+    - **book: [The Algorithm Design Manual][data_struct]**
     - article: [Data Structures Succinctly: Part 1][datastructspart1]
 - Learn Unix tools. Unix's philosophy of building simple, small,
 modular tools is highly regarded for a reason. Problems that
@@ -115,7 +115,7 @@ and hence own the full stack what they develop.
     - article: [ Web Application Exploits and Defenses][webappsecurity]
 
 
-[data_struct]: http://www.amazon.com/Data-Structures-Algorithms-Alfred-Aho/dp/0201000237
+[data_struct]: http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693
 [unix_book]: http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/ref=sr_1_16?...
 [unix_tutorial]: http://www.learnshell.org/
 [git_school]: https://try.github.io/levels/1/challenges/1
