@@ -49,7 +49,7 @@ and hence own the full stack what they develop.
     - **article: [PEP 20 aka The Zen of Python][pep20] (time investment: 2 min)**
 - Learn about Python virtual environments (virtualenv) in order to
   keep your local development environment sane.
-    - **tutorial: [Python Guide: Virtual Environments.][virtualenv] (time investment: 10 min)**
+    - **tutorial: [A non-magical introduction to Pip and Virtualenv for Python beginners][virtualenv] (time investment: 15 min)**
 - Write a Django app from scratch. Django is a great web framework
   written in Python that we use for most of our web services. Learning
   the fundamantals of a web framework gives you the ability to write
@@ -156,4 +156,4 @@ and hence own the full stack what they develop.
 [pep20]: http://legacy.python.org/dev/peps/pep-0020/
 [top5cucumber]: http://blog.codeship.io/2013/05/21/Testing-Tuesday-6-Top-5-Cucumber-best-practices.html
 [datastructspart1]: http://code.tutsplus.com/series/data-structures-succinctly-part-1--cms-551?view=grid
-[virtualenv]: http://docs.python-guide.org/en/latest/dev/virtualenvs/
+[virtualenv]: http://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/
